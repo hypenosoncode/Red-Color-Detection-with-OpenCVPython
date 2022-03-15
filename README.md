@@ -1,1 +1,1 @@
-# Red-Color-Detection-with-OpenCVPython
+# Red Color Detection with OpenCV-Python
